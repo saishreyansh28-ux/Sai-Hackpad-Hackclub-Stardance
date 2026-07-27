@@ -9,7 +9,6 @@ A custom 3-key macropad built for the Hack Club Hackpad event.
 - QMK Firmware
 - Custom PCB designed in KiCad
 - Custom enclosure designed in Fusion 360
-- USB-C Connectivity
 
 ## Repository Structure
 
