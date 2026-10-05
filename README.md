@@ -1,34 +1,21 @@
 # Hackpad - Sai Shreyansh
-
-A custom 3-key macropad built for the Hack Club Hackpad event.
+A custom 3-key macropad built for Hack Club.
 
 ## Features
-
 - 3 Mechanical Keys
 - Seeed Studio XIAO RP2040
 - QMK Firmware
 - Custom PCB designed in KiCad
 - Custom enclosure designed in Fusion 360
-
-## Repository Structure
-
-```
-.
-├── kicad/        # PCB and schematic
-├── fusion/       # Fusion 360 CAD files
-├── firmware/     # QMK firmware
-```
-
+- 
 ## Hardware
-
-- Seeed Studio XIAO RP2040
-- 3 × MX Mechanical Switches
-- 3 × Keycaps
+- Seed Studio XIAO RP2040
+- 3 MX Mechanical Switches
+- 3 Keycaps
 - PCB designed in KiCad
 - Custom 3D Printed Case
 
 ## Software
-
 - KiCad
 - Fusion 360
 - QMK Firmware
@@ -47,14 +34,4 @@ Included formats:
 - .stl
 
 ## PCB
-
-The complete KiCad project is available in the `kicad` folder.
-
-Included files:
-- Schematic
-- PCB Layout
-- KiCad Project
-
-## License
-
-MIT
+Built in Kicad and designed it fully on it.
